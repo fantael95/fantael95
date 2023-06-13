@@ -21,11 +21,18 @@
 ## **Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndjkkk)](https://solved.ac/dndjkkk) 
+<br/>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndjkkk)](https://solved.ac/dndjkkk) 
+ 
+<br/>
+ 
+![fantael95's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=fantael95&show_icons=true&theme=dark)
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantael95&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
 
-  
-  </div>
+## **📝자격증**
+ 
+</div>
