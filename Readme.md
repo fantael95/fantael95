@@ -29,8 +29,10 @@
  
 ![fantael95's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=fantael95&show_icons=true&theme=dark)
  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
 
+ 
 ## **📝자격증**
  
 </div>
