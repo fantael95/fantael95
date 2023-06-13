@@ -12,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndjkkk)](https://solved.ac/dndjkkk) 
 
