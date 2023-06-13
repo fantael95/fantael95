@@ -29,8 +29,6 @@
  
 ![fantael95's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=fantael95&show_icons=true&theme=dark)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantael95&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
 
 ## **📝자격증**
