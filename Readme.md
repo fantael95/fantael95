@@ -1,7 +1,11 @@
 <div align="center">
 
+ ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=auto&height=300&section=header&text=welcome&fontSize=150&animation=fadeIn&fontAlignY=30&desc=fantael95's%20GitHub%20Profile&descAlignY=51&descAlign=70)
+
+ 
 **목표** : `IT 개발자, 게임 프로그래머'
 
+ 
 <br/>
 <br/>
 
@@ -26,13 +30,23 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndjkkk)](https://solved.ac/dndjkkk) 
  
 <br/>
- 
+
 ![fantael95's github stats](https://github-readme-stats-4i9x.vercel.app/api?username=fantael95&show_icons=true&theme=dark)
+ -+
+ 3.
  
+ -
+<br/>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
 
- 
 ## **📝자격증**
+운전면허 1종 보통
+
+## **📧Contacts**
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonseongjae98@gmail.com)](mailto:jeonseongjae98@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jeonseongjae@naver.com)](mailto:jeonseongjae@naver.com) 
  
 </div>
+
