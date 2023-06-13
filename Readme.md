@@ -1,4 +1,10 @@
-KDT 2기 멀티캠퍼스 파이썬 풀스택 취업캠프를 수강 중인 학생입니다.
+<div align="center">
+
+**목표** : `IT 개발자, 게임 프로그래머'
+
+<br/>
+<br/>
+
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
@@ -7,3 +13,6 @@ KDT 2기 멀티캠퍼스 파이썬 풀스택 취업캠프를 수강 중인 학�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantael95&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
+
+  
+  </div>
