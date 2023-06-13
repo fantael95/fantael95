@@ -5,3 +5,5 @@ KDT 2기 멀티캠퍼스 파이썬 풀스택 취업캠프를 수강 중인 학�
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dndjkkk)](https://solved.ac/dndjkkk) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fantael95&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fantael95&layout=compact&theme=dark)
