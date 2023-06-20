@@ -3,7 +3,7 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&&&&color=auto&height=300&section=header&text=welcome&fontSize=150&animation=fadeIn&fontAlignY=30&desc=fantael95's%20GitHub%20Profile&descAlignY=51&descAlign=70)
 
  
-**목표** : `IT 개발자, 게임 프로그래머`
+**목표** : `풀스택 개발자, 게임 프로그래머`
 <br/>
 **MBTI** : `ISTJ`
 
