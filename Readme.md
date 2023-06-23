@@ -46,6 +46,7 @@
 ## **📝자격증**
 운전면허 1종 보통
 
+
 ## **📧Contacts**
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonseongjae98@gmail.com)](mailto:fantael95@gmail.com)
