@@ -6,7 +6,7 @@
 **목표** : `풀스택 개발자, 게임 프로그래머`
 <br/>
 
-**MBTI** : `ISTJ`~'INFP'
+**MBTI** : `ISTJ`~`INFP`
 
  
 <br/>
