@@ -7,9 +7,7 @@
 
 <br/>
 
-
 **MBTI** : `ISTJ` ~ `INFP`
-
  
 <br/>
 <br/>
